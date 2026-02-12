@@ -1,10 +1,7 @@
-# gitFlowBasico2026
-Comando básicos de git con github
-
-```sh
+Ejemplo de un archivo txt
+git flow básico
 git status
 git add .
 git status
 git commit -m "Enunciado descriptivo del cambio"
 git push
-```
